@@ -1,0 +1,96 @@
+Species,Alpha.Code,updated count,stationary.obs,stationary...travel.obs,Common.name,Urban.Rural,Broadleaf,mixed.wood,Confier,Savanna.grassland,Wetland
+Accipiter cooperii,COHA,207,131,832,Cooper's Hawk,x,x,x,x,,x
+Actitis macularius,SPSA,209,134,744,Spotted Sandpiper,,,,,,x
+Agelaius phoeniceus,RWBL,2437,1383,6573,Red-winged blackbird,,,,,,x
+Aix sponsa,WODU,507,240,1918,Wood duck,,,,,,x
+Aphelocoma californica,WESJ,687,1298,3241,Scrub Jay,x,x,,,,
+Ardea alba,GREG,129,65,542,Great egret,,,,,,x
+Ardea herodias,GBHE,1614,797,5318,Great blue heron,,,,,,x
+Bombycilla cedrorum,CEDW,602,504,2325,Cedar waxwing,x,x,x,,,
+Branta canadensis,CAGO,2405,1136,6322,Canada goose,x,,,,,x
+Buteo jamaicensis,RTHA,984,587,3498,Red-tailed hawk,x,x,x,,x,
+Callipepla californica,CAQU,159,201,599,California quail,x,x,,,x,
+Calypte anna,ANHU,1868,1722,5404,Anna's hummingbird,x,x,x,,,
+Cardellina pusilla,WIWA,569,495,2184,Wilson's warbler,x,x,x,x,,
+Cathartes aura,TUVU,524,644,2535,Turkey vulture,x,x,x,,x,
+Catharus guttatus,HETH,82,49,311,Hermit thrush,,,x,x,,
+Catharus ustulatus,SWTH,467,631,2108,Swainson's thrush,x,x,x,,,x
+Certhia americana,BRCR,644,324,2379,Brown creeper,x,,x,x,,
+Circus cyaneus,NOHA,246,226,1313,Northern Harrier,,,,,x,x
+Cistothorus palustris,MAWR,973,285,2947,Marsh wren,,,,,,x
+Coccothraustes vespertinus,EVGR,154,300,686,Evening grosbeak,,x,x,,,
+Colaptes auratus,FLIN,2090,2034,6960,Northern flicker,x,x,x,,x,
+Columba livia,RODO,717,801,2511,Rock dove,x,,,,,
+Contopus cooperi,OSFL,128,130,507,Olive-sided flycatcher,,,x,x,,
+Contopus sordidulus,WEWP,231,541,1492,Western wood pewee,,,x,x,,
+Corvus brachyrhynchos,AMCR,2932,2112,6341,American crow,x,x,x,,,
+Corvus caurinus,NOCR,679,955,3511,Northwestern crow,x,x,x,,,
+Corvus corax,CORA,635,591,2238,Common raven,x,,x,x,,
+Cyanocitta stelleri,STJA,1201,1392,3635,Stellar's jay,x,x,x,x,,
+Dryocopus pileatus,PIWO,423,369,1341,Pileated woodpecker,,,x,x,,
+Empidonax difficilis,PSFL,381,310,1388,Pacific slope flycatcher,,,x,x,,
+Empidonax traillii,WIFL,173,144,799,Willow flycatcher,,x,,,,x
+Euphagus cyanocephalus,BRBL,500,574,1687,Brewer's blackbird,x,,,,x,
+Falco sparverius,AMKE,159,107,689,Kestrel,,,,,x,
+Gallinago delicata,WISN,131,68,561,Wilson's snipe,,,,,x,x
+Geothlypis trichas,COYE,884,742,3408,Yellowthroat,,,,,,x
+Haemorhous mexicanus,HOFI,1819,1858,5458,House finch,x,,,,,
+Haemorhous purpureus,PUFI,607,972,2797,Purple finch,,,x,x,,
+Haliaeetus leucocephalus,BAEA,1546,950,5351,Bald eagle,,,x,,,x
+Hirundo rustica,BARS,1258,855,3667,Barn swallow,x,,,,x,
+Ixoreus naevius,VATH,399,464,1532,Varied thrush,,,x,x,,
+Junco hyemalis,UDEJ,2300,2425,6648,Dark-eyed junco,x,,x,x,,
+Lophodytes cucullatus,HOME,450,174,1424,Hooded merganser,,,,,,x
+Loxia curvirostra,RECR,638,438,1702,Red crossbill,,,x,x,,
+Megaceryle alcyon,BEKI,546,324,1793,Belted kingfisher,,,,,,x
+Melospiza lincolnii,LISP,94,66,499,Lincoln's sparrow,,,,,,x
+Melospiza melodia,SOSP,3812,3025,11168,Song sparrow,x,x,,,,
+Molothrus ater,BHCO,811,655,2873,Brown-headed cowbird,x,x,x,x,x,
+Oreothlypis celata,OCWA,862,800,3330,Orange-crowned warbler,,x,x,,,
+Pandion haliaetus,OSPR,427,256,1695,Osprey,,,,,,x
+Passer domesticus,HOSP,1030,1114,3021,House sparrow,x,,,,,
+Passerculus sandwichensis,SAVS,854,516,2897,Savanna sparrow,x,,,,x,
+Passerella iliaca,FOSP,400,421,1457,Fox sparrow,,x,x,,,
+Passerina amoena,LAZB,108,274,802,Lazuli bunting,,x,,,,
+Patagioenas fasciata,BTPI,349,474,1435,Band-tailed pidgeon,,,x,x,,
+Petrochelidon pyrrhonota,CLSW,402,293,1280,American cliff swallow,x,,,,,x
+Phasianus colchicus,COPH,107,138,591,Pheasant,x,,,,x,
+Pheucticus melanocephalus,BHGR,725,981,2909,black-headed grosbeak,,x,x,,,
+Picoides pubescens,DOWO,603,791,2623,Downy woodpecker,x,x,x,,,
+Picoides villosus,HAWO,202,314,939,Hairy woodpecker,,,,x,,
+Pipilo maculatus,SPTO,2676,2607,8996,Spotted towhee,x,x,x,,x,
+Piranga ludoviciana,WETA,347,469,1465,Western tanager,,,x,,,
+Poecile atricapillus,BCCH,2269,2488,7801,Black-capped chickadee,x,x,x,,,
+Poecile rufescens,CBCH,1531,1358,4052,Chestnut-backed chickadee,,,x,x,,
+Porzana carolina,SORA,91,102,342,Sora,,,,,,x
+Progne subis,PUMA,104,105,568,Purple martin,,,,,,x
+Psaltriparus minimus,BUSH,1103,735,3535,American bushtit,x,x,x,,,
+Regulus calendula,RCKI,747,300,2373,Ruby-crowned kinglet,,,,x,,
+Regulus satrapa,GCKI,680,223,1960,Golden-crowned kinglet,x,x,x,,,
+Selasphorus rufus,RUHU,880,1115,3705,Rufous humingbird,,,x,x,,
+Setophaga coronata,UYRW,1029,461,3317,Yellow-rumped warbler,,x,x,,,
+Setophaga nigrescens,BTYW,206,220,974,Black-throated gray warbler,,x,,,,
+Setophaga petechia,YEWA,355,129,1324,Yellow warbler,,,,,,x
+Setophaga townsendi,TOWA,182,179,739,Townsend's warbler,,,x,x,,
+Sitta canadensis,RBNU,1349,1495,4153,Red-breasted nuthatch,,x,x,x,,
+Sphyrapicus ruber,RBSA,400,262,1305,Red-breasted sapsucker,,x,x,,,
+Spinus pinus,PISI,1621,1758,4933,Pine siskin,,,x,x,,
+Spinus psaltria,LEGO,272,419,1185,Lesser goldfinch,,x,,,x,
+Spinus tristis,AMGO,1418,1517,5033,American goldfinch,x,x,x,x,x,
+Spizella passerina,CHSP,156,194,564,Chipping sparrow,x,x,,,x,
+Stelgidopteryx serripennis,NRWS,277,135,912,Northern roughwinged,,,,,,x
+Streptopelia decaocto,ECDO,448,862,1932,Eurasian collared dove,x,,,,,
+Strix varia,BDOW,108,95,258,Barred owl,x,x,x,x,,
+Sturnus vulgaris,EUST,2544,2422,7710,European starling,x,,,,,
+Tachycineta bicolor,TRES,1282,807,4056,Tree swallow,,,,,,x
+Tachycineta thalassina,VGSW,1962,1529,5481,Violet-green swallow,,,,,,x
+Thryomanes bewickii,BEWR,1591,986,4733,Bewick's wren,x,x,,,,
+Troglodytes aedon,HOWR,133,258,767,House wren,x,x,,,,
+Troglodytes pacificus,PAWR,863,393,2746,Pacific wren,,,x,x,,
+Turdus migratorius,AMRO,4482,3623,12345,American robin,x,x,x,,,
+Vireo gilvus,WAVI,316,256,1373,Warbling vireo,,x,,,,
+Vireo huttoni,HUVI,138,107,595,Hutton's vireo,,x,x,,,
+Zenaida macroura,MODO,609,784,2446,Mourning dove,x,x,,,x,
+Zonotrichia atricapilla,GCSP,752,830,2835,Golden-crowned sparrow,,,x,,x,
+Zonotrichia leucophrys,WCSP,1560,1319,4997,White-crowned sparrow,x,x,x,,x,
+Empidonax_hammondii,HAFL,20,201,5555,Hammond's flycatcher,,,x,,,
