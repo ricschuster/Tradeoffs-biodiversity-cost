@@ -7,6 +7,9 @@ library(rgdal)
 
 source("Wes.scripts.to.source_rs_edit.R")
 
+if(!file.exists(here("data","BC_WASH_OREGON_March_June_manual_clip.csv"))){
+  unzip(here("data", "BC_WASH_OREGON_March_June_manual_clip.zip"), exdir = here("data"))
+}
 BWO_MJ_manual_clip <- read.csv(here("data","BC_WASH_OREGON_March_June_manual_clip.csv"),as.is=T,header=T)
 BWO_MJ_study_area_no_atr <- read.csv(here('data',"BC_WASH_OREGON_March_June_Study_area_no_atr.csv"),as.is=T,header=T)
 BWO_MJ_study_area <- BWO_MJ_manual_clip[BWO_MJ_study_area_no_atr$Sel == 1,]
